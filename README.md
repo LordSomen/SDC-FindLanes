@@ -1,6 +1,10 @@
 # SDC-FindLanes
 In this repository I am finding the lanes using Computer Vision technology
 
+
+https://user-images.githubusercontent.com/29105619/148818710-62ed358f-4580-457d-be98-20a94e8e2af3.mp4
+
+
 ## Description
 
 In this project we are trying to detect the lanes in the road with the help of Computer Vision, video and image analysis algorithms , which will help a SDC understand the lane.
@@ -27,7 +31,9 @@ Python, Jupyter Notebook, Computer vision, Machine Learning, data visualization.
 
 
 ## Screenshots
+![laneLines_thirdPass](https://user-images.githubusercontent.com/29105619/148818843-2afcd47e-018d-4363-a74a-ffc862b020db.jpg)
 
+![line-segments-example](https://user-images.githubusercontent.com/29105619/148818856-486d6693-0b60-4424-acfb-875a3c0295ce.jpg)
 
 
 ## Run Locally
